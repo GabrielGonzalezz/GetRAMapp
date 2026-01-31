@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of RAM - External Brain 2",
+  "description": "A second brain for ADHD users. Zero judgment, instant capture, and AI-driven organization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
